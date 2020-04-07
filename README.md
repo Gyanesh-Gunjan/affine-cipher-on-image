@@ -12,4 +12,12 @@ Package		|   Version
 numpy           |    1.18.1
 opencv-python   |   4.1.2.30
 
+# Original Image 
+![Cat.png](https://raw.githubusercontent.com/Gyanesh-Gunjan/affine-cipher-on-image/master/cat.png)
+
+# Encrypted Image 
+![Cat.png](https://raw.githubusercontent.com/Gyanesh-Gunjan/affine-cipher-on-image/master/encrypted_img.png)
+
+# Decrypted Image 
+![Cat.png](https://raw.githubusercontent.com/Gyanesh-Gunjan/affine-cipher-on-image/master/decrypted_img.png)
 ### Ref : https://en.wikipedia.org/wiki/Affine_cipher
